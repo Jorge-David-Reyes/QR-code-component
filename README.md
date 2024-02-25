@@ -19,7 +19,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL](https://jorge-david-reyes.github.io/QR-code-component/)
 
 ## My process
 
