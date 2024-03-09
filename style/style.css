@@ -63,9 +63,9 @@ body {
 .boxTitles h2 {
     color: var(--dark_blue);
     margin-bottom: 16px;
-    font-size: 21.5px;
+    font-size: 22px;
     /* margin-bottom: 0px; */
-    /* margin-top: 20px; */
+    margin-top: 19.5px;
 }
 
 .boxTitles p {
