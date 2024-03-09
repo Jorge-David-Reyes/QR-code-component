@@ -64,9 +64,12 @@ body {
     color: var(--dark_blue);
     margin-bottom: 16px;
     font-size: 22px;
+    /* margin-bottom: 0px; */
+    margin-top: 20px;
 }
 
 .boxTitles p {
     color: var(--grayish_blue);
     font-size: 16px;
+    /* margin-top: 0px; */
 }
